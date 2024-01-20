@@ -1,0 +1,16 @@
+{
+  "name": "SHT31",
+  "title" : "SHT31(RS485)",
+  "keywords": "SHT31(RS485)",
+  "description": "Temp&Humid Sensor",
+  "homepage": "",
+  "license": "",
+  "git": "",
+  "author": "",
+  "email": "",
+  "url": "",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/cover.JPG"
+}
